@@ -159,7 +159,7 @@ footer {
   font-size: 14px;
 }
 
-@media (min-width: 500px) {
+@media (min-width: 400px) {
   :root {
     --bg-url: url(./imagens/bg-desktopduo.jpg);
   }
